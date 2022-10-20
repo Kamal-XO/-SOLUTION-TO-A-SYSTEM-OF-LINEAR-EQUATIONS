@@ -20,6 +20,8 @@ a=np.array([[1,-3],[3,1]])
 b=np.array([0,10])
 c=np.linalg.solve(a,b)
 print(c)
+
+
 ```
 ## Output:
 ![OUTPUT](./OUTPUT3.png)
